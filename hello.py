@@ -9,6 +9,7 @@ def index():
 
 
 
+print('asa')
 @app.route('/test', methods=['GET',"POST"])
 
 def test():
